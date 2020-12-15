@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 		
 		//我不懂合久必分而后将分别而尽快吧分加快步伐
+		
+		//放你姐我环境日妇女借款方那就看
     }
 }
